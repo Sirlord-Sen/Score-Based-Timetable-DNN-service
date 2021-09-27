@@ -1,0 +1,18 @@
+# compiled output
+node_modules/
+venv/
+env/
+
+# Python Cache
+__pycache__
+app/__pycache__
+app/timetable/__pycache__
+
+# IDE - VSCode
+.vscode/
+
+# os
+.env
+
+#Personal
+commands.txt

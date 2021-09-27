@@ -1,0 +1,186 @@
+,Program,Actual CWA,Score,Study Time,Lecturer Performance,Difficulty
+0,Electrical,74,70,2,9,7
+1,Computer,70,64,2,8,8
+2,Electrical,68.3,76,1,10,1
+3,Electrical,76,69,1,8,3
+4,Electrical ,65,60,1,8,6
+5,Biomedical,75,70,2,8,5
+6,Computer,52.4,45,1,5,6
+7,Electrical ,68.15,74,1,9,5
+8,Computer,69.15,71,4,8,8
+9,Biomedical,74,84,2,8,4
+10,Electrical,79,73,1,8,1
+11,Mechanical,79.86,70,1,9,2
+12,Electrical ,64.86,51,2,7,8
+13,Electrical ,66,68,1,7,6
+14,Electrical,61.34,58,1,3,5
+15,Electrical ,77.14,74,1,10,5
+16,Electrical,77.19,60,0.5,9,6
+17,Computer ,67,64,3,9,2
+18,Chemical ,64,65,1,9,4
+19,Chemical ,73.58,64,2,7,4
+20,Chemical ,72.92,75,0.5,9,1
+21,Chemical ,79.09,70,2,8,5
+22,Chemical ,68,67,1,8,6
+23,Computer ,77.58,80,0.5,7,1
+24,Electrical,70.1,68,2,8,4
+25,Petrochemical ,70.84,67,0.8,9,7
+26,Petrochemical ,72.66,75,1,9,6
+27,Petrochemical,74,70,4,9,4
+28,Chemical,66,75,0.5,9,3
+29,Chemical,74.08,72,1,9,6
+30,Electrical,74,70,1,9,2
+31,Computer,68,68,2,9,2
+32,Chemical,79.27,70,0.5,7,3
+33,Chemical,65,67,1,8,5
+34,Chemical,73,72,3,8,4
+35,Petrochemical,73.78,68,1,9,4
+36,Petrochemical,70.88,54,2,6,6
+37,Chemical,68.45,68,1,10,6
+38,Electrical,68,67,1,9,5
+39,Chemical,74,73,1,7,4
+40,Petrochemical,47.29,53,2,6,4
+41,Petrochemical,69.89,75,1,7,1
+42,Computer,77.82,87,1,5,2
+43,Computer,80,75,1,8,6
+44,Chemical,68.7,65,1,8,8
+45,Electrical ,71.6,72,2,6,9
+46,Petrochemical ,75.49,70,5,7,6
+47,Electrical,70.39,58,1,9,2
+48,Chemical,72.73,70,2,6,5
+49,Telecommunication,83.47,86,1,7,2
+50,Electrical,64,58,2,7,3
+51,Chemical,68.25,64,3,8,7
+52,Petrochemical,70.99,71,1,8,2
+53,Electrical,77,67,0.2,6,7
+54,Electrical,71.58,64,1,8,3
+56,Chemical,64,57,3,7,7
+57,Electrical,77,67,0.2,6,7
+58,Chemical,69.2,60,1,9,6
+59,Chemical,75,73,5,7,3
+60,Electrical,78.31,78,1,8,7
+61,Civil,72.06,66,1,5,5
+62,Civil,69,45,2,4,8
+63,Electrical,69.38,60,1,5,5
+64,Electrical ,75.54,65,3,6,5
+65,Electrical,79.64,66,1,9,2
+66,Electrical,84.07,73,2,7,5
+67,Electrical ,54,60,1,9,5
+68,Civil,66.9,60,1,8,4
+69,Electrical ,71,64,1,7,5
+70,Geomatic,69.19,52,1,4,5
+71,Electrical,68.65,65,2,5,8
+72,Electrical,62.45,69,2,7,4
+73,Computer,78,72,1,7,4
+74,Telecommunication,60,70,1,7,4
+75,Electrical,74.48,73,1,6,7
+76,Electrical ,62.78,85,1,10,1
+77,Electrical,74.56,72,0.5,8,5
+78,Chemical,56.99,78,2,4,4
+79,Civil,63,70,2,3,2
+80,Electrical,83,90,1,8,6
+81,Electrical,67,65,1,10,7
+82,Telecommunication,63,70,2,10,1
+83,Electrical,65,58,2,3,5
+84,Civil,64,75,4,5,8
+85,Electrical,60,69,2,10,7
+86,Electrical,67.8,62,1,9,2
+87,Civil,63.48,65,2,6,7
+88,Electrical,65,65,0.5,7,2
+89,Telecommunication,59.5,57,2,8,2
+90,Metallurgical,70.41,68,2,8,5
+91,Electrical ,83.27,66,1,8,7
+92,Electrical,51.71,45,2,10,5
+93,Computer,66,67,1,7,6
+94,Computer,59,63,2,7,4
+95,Computer,67.53,74,1,9,1
+96,Electrical,74.67,75,2,10,6
+97,Civil,76.5,68,2,7,7
+98,Computer,63,63,2,9,5
+99,Electrical,70.65,64,1,3,9
+100,Computer ,67,75,2,5,4
+101,Computer,54,65,3,6,4
+102,Computer,67.68,64,2,7,8
+103,Computer,73.5,67,3,9,4
+104,Electrical,75.11,74,1,6,5
+105,Electrical ,81,68,2,9,9
+106,Computer,68.71,68,3,7,5
+107,Computer,74,82,3,9,8
+108,Computer,50,70,3,7,7
+109,Computer,2.9,75,2,9,2
+110,Electrical,70.04,75,1,9,5
+111,Electrical,60.14,48,1,7,3
+112,Computer,69 71,71,1,7,4
+113,Computer ,67.7,61,2,8,7
+114,Electrical,81.28,62,1,7,9
+115,Computer,65.8,65,1,9,5
+116,Telecommunication,74.58,70,0.5,7,4
+117,Computer,67.97,66,4,9,8
+118,Computer,75,75,1,9,7
+119,Telecommunication,59.89,65,2,4,5
+120,Civil,81.05,56,2,3,5
+121,Electrical,62.78,69,1,8,8
+122,Electrical,75.3,57,2,9,10
+123,Computer,61.2,69,0.5,7,5
+124,Computer,72.15,78,2,9,2
+125,Computer,68.71,68,3,7,5
+126,Biomedical,75.55,70,1,7,8
+127,Telecommunication,68.64,74,1,4,3
+128,Electrical,63,80,1,6,2
+129,Civil,57.89,60,3,7,7
+130,Computer,69.53,70,1,6,6
+131,Electrical,65,50,3,6,4
+132,Electrical,65.97,54,3,9,7
+133,Civil,62,75,0.5,9,3
+134,Computer ,65,80,1,9,2
+135,Electrical,62,67,1,6,4
+136,Electrical,76.65,66,2,9,8
+137,Electrical,65,68,2,6,7
+138,Biomedical ,59,60,1,6,1
+139,Petroleum,75,70,1,8,5
+140,Biomedical,70.61,60,1,1,4
+141,Electrical,78,69,1,8,1
+142,Computer,70,68,2,7,6
+144,Electrical,78,69,1,8,1
+145,Electrical ,80,70,1,9,2
+146,Telecommunication,59.67,57,2,7,5
+147,Electrical,69.25,50,2,10,5
+148,Computer,72.34,84,2,7,5
+149,Telecommunication,58,68,1,10,1
+150,Electrical ,61,62,1,7,8
+151,Geological,78,64,1,8,5
+152,Electrical,71,65,1,9,4
+153,Telecommunication,73.14,67,3,3,8
+154,Electrical ,83.03,70,4,9,8
+155,Electrical ,83.58,69,1,6,3
+156,Electrical,74.65,70,2,10,6
+157,Computer,64,80,1,10,2
+158,Electrical ,65,59,0.5,8,10
+159,Telecommunication,59.89,65,2,4,5
+160,Geomatic,69.97,64,2,9,2
+161,Computer,77,66,2,5,4
+162,Computer,60.39,51,1,5,4
+163,Electrical ,58.19,48,3,9,4
+164,Chemical ,74.12,70,1,9,6
+165,Petroleum,70.2,63,3,7,8
+166,Petroleum,75,54,0.5,6,3
+167,Electrical,73.09,76,1,8,5
+168,Petroleum,70.2,63,3,7,8
+169,Civil,64.87,76,2,8,4
+170,Electrical ,69.7,60,2,7,7
+171,Electrical,70.05,66,1,7,6
+172,Computer,61.2,64,2,7,5
+173,Chemical,65,67,1,8,5
+175,Agricultural,56,68,1,9,2
+176,Mechanical,75.29,67,0.5,9,5
+177,Electrical,78.9,72,1,8,8
+178,Computer,45.6,60,1,4,3
+179,Computer,73,80,1,7,2
+180,Computer ,66,64,1,5,3
+181,Computer,69.25,73,2,10,6
+182,Computer ,63,60,2,8,6
+183,Computer,65,80,2,10,2
+184,Agricultural,63.67,60,2,10,5
+185,Computer,56.7,65,1,4,6
+186,Computer ,65,80,2,10,2
+187,Computer,71.24,81,2,9,3
